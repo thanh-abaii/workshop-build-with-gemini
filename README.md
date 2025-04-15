@@ -4,7 +4,7 @@ This workshop teaches how to build with Gemini using the Gemini API and Python S
 
 Course outline:
 
-- [Part1: Quickstart + Text prompting](https://github.com/patrickloeber/workshop-build-with-gemini/blob/main/cookbooks/part-1-text-prompting.ipynb)
+- [Part1: Quickstart + Text prompting](https://github.com/patrickloeber/workshop-build-with-gemini/blob/main/notebooks/part-1-text-prompting.ipynb)
     - Text understanding
     - Streaming response
     - Chats
@@ -14,7 +14,7 @@ Course outline:
     - Token usage
     - Final excercise: Chat with book
 
-- [Part 2: Multimodal understanding (image, video, audio, docs, code)](https://github.com/patrickloeber/workshop-build-with-gemini/blob/main/cookbooks/part-2-multimodal-understanding.ipynb)
+- [Part 2: Multimodal understanding (image, video, audio, docs, code)](https://github.com/patrickloeber/workshop-build-with-gemini/blob/main/notebooks/part-2-multimodal-understanding.ipynb)
     - Image
     - Video
     - Audio
@@ -22,7 +22,7 @@ Course outline:
     - Code
     - Final excercise: Analyze supermarket invoice
 
-- [Part 3: Thinking models + agentic capabilities (tool usage)](https://github.com/patrickloeber/workshop-build-with-gemini/blob/main/cookbooks/part-3-thinking-and-tools.ipynb)
+- [Part 3: Thinking models + agentic capabilities (tool usage)](https://github.com/patrickloeber/workshop-build-with-gemini/blob/main/notebooks/part-3-thinking-and-tools.ipynb)
     - Thinking models
     - Structured outputps
     - Code execution
