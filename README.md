@@ -30,7 +30,7 @@ Course outline:
     - Function calling
     - Final excercise: Give Gemini access to the PokéAPI to answer Pokémon questions
 
-**Next steps**: There's even more you can do with Gemini which we didn't cover in this workshop:
+**Next steps**: There's even more you can do with Gemini:
 
 - [Image creation and editing with Gemini 2.0](https://github.com/patrickloeber/genai-tutorials/blob/main/notebooks/gemini-image-editing.ipynb)
 - [Live API: Talk to Gemini and share your camera](https://aistudio.google.com/live) & [Live API cookbook](https://github.com/google-gemini/cookbook/blob/main/quickstarts/Get_started_LiveAPI.ipynb)
