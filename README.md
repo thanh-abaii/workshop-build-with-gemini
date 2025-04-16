@@ -24,7 +24,7 @@ Course outline:
 
 - [Part 3: Thinking models + agentic capabilities (tool usage)](https://github.com/patrickloeber/workshop-build-with-gemini/blob/main/notebooks/part-3-thinking-and-tools.ipynb)
     - Thinking models
-    - Structured outputps
+    - Structured outputs
     - Code execution
     - Grounding with Google Search
     - Function calling
