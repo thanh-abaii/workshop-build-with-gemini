@@ -2,6 +2,9 @@
 
 This workshop teaches how to build with Gemini using the Gemini API and Python SDK.
 
+> [!NOTE]
+> I recommend first going through the notebooks and exercises in the [notebooks](https://github.com/patrickloeber/workshop-build-with-gemini/blob/main/notebooks/) folder. You'll find the same notebooks but with the solutions in [solutions](https://github.com/patrickloeber/workshop-build-with-gemini/blob/main/solutions/).
+
 Course outline:
 
 - [Part1: Quickstart + Text prompting](https://github.com/patrickloeber/workshop-build-with-gemini/blob/main/notebooks/part-1-text-prompting.ipynb)
