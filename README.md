@@ -5,6 +5,8 @@ This workshop teaches how to build with Gemini using the Gemini API and Python S
 > [!NOTE]
 > I recommend first going through the notebooks and exercises in the [notebooks](https://github.com/patrickloeber/workshop-build-with-gemini/blob/main/notebooks/) folder. You'll find the same notebooks but with the solutions in [solutions](https://github.com/patrickloeber/workshop-build-with-gemini/blob/main/solutions/).
 
+**Prerequisites**: You need an API key from [Google AI Studio](https://aistudio.google.com/apikey). Everything can be done on the free tier.
+
 Course outline:
 
 - [Part1: Quickstart + Text prompting](https://github.com/patrickloeber/workshop-build-with-gemini/blob/main/notebooks/part-1-text-prompting.ipynb)
